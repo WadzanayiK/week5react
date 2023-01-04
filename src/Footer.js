@@ -4,7 +4,7 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <div className="Footer">
-      Coded by Wadzanayi and{" "}
+      Coded by WadzanayiK and{" "}
       <a
         href="https://github.com/WadzanayiK/week5react"
         target="_blank"
