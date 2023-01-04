@@ -1,0 +1,12 @@
+body {
+  background: #f6f6f6;
+}
+
+.App .container {
+  background: #fff;
+  border-radius: 8px;
+  font-family: "Poppins", sans-serif;
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+}
